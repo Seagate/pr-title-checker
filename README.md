@@ -1,3 +1,5 @@
+# Disclaimer: This project is not maintained anymore
+
 # Pull Request Title Checker
 
 <!-- prettier-ignore -->
